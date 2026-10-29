@@ -1,0 +1,1758 @@
+{
+  "africa": [
+    {
+      "code": "ao",
+      "easy": true,
+      "name": {
+        "pt": "Angola",
+        "en": "Angola",
+        "es": "Angola"
+      }
+    },
+    {
+      "code": "dz",
+      "easy": true,
+      "name": {
+        "pt": "Argélia",
+        "en": "Algeria",
+        "es": "Argelia"
+      }
+    },
+    {
+      "code": "bj",
+      "easy": false,
+      "name": {
+        "pt": "Benin",
+        "en": "Benin",
+        "es": "Benín"
+      }
+    },
+    {
+      "code": "bw",
+      "easy": false,
+      "name": {
+        "pt": "Botsuana",
+        "en": "Botswana",
+        "es": "Botsuana"
+      }
+    },
+    {
+      "code": "bf",
+      "easy": false,
+      "name": {
+        "pt": "Burkina Faso",
+        "en": "Burkina Faso",
+        "es": "Burkina Faso"
+      }
+    },
+    {
+      "code": "bi",
+      "easy": false,
+      "name": {
+        "pt": "Burundi",
+        "en": "Burundi",
+        "es": "Burundi"
+      }
+    },
+    {
+      "code": "cv",
+      "easy": true,
+      "name": {
+        "pt": "Cabo Verde",
+        "en": "Cape Verde",
+        "es": "Cabo Verde"
+      }
+    },
+    {
+      "code": "cm",
+      "easy": true,
+      "name": {
+        "pt": "Camarões",
+        "en": "Cameroon",
+        "es": "Camerún"
+      }
+    },
+    {
+      "code": "td",
+      "easy": false,
+      "name": {
+        "pt": "Chade",
+        "en": "Chad",
+        "es": "Chad"
+      }
+    },
+    {
+      "code": "km",
+      "easy": false,
+      "name": {
+        "pt": "Comores",
+        "en": "Comoros",
+        "es": "Comoras"
+      }
+    },
+    {
+      "code": "ci",
+      "easy": true,
+      "name": {
+        "pt": "Costa do Marfim",
+        "en": "Ivory Coast",
+        "es": "Costa de Marfil"
+      }
+    },
+    {
+      "code": "dj",
+      "easy": false,
+      "name": {
+        "pt": "Djibuti",
+        "en": "Djibouti",
+        "es": "Yibuti"
+      }
+    },
+    {
+      "code": "eg",
+      "easy": true,
+      "name": {
+        "pt": "Egito",
+        "en": "Egypt",
+        "es": "Egipto"
+      }
+    },
+    {
+      "code": "er",
+      "easy": false,
+      "name": {
+        "pt": "Eritreia",
+        "en": "Eritrea",
+        "es": "Eritrea"
+      }
+    },
+    {
+      "code": "sz",
+      "easy": false,
+      "name": {
+        "pt": "Essuatíni",
+        "en": "Eswatini",
+        "es": "Esuatini"
+      }
+    },
+    {
+      "code": "et",
+      "easy": true,
+      "name": {
+        "pt": "Etiópia",
+        "en": "Ethiopia",
+        "es": "Etiopía"
+      }
+    },
+    {
+      "code": "ga",
+      "easy": false,
+      "name": {
+        "pt": "Gabão",
+        "en": "Gabon",
+        "es": "Gabón"
+      }
+    },
+    {
+      "code": "gh",
+      "easy": true,
+      "name": {
+        "pt": "Gana",
+        "en": "Ghana",
+        "es": "Ghana"
+      }
+    },
+    {
+      "code": "gn",
+      "easy": false,
+      "name": {
+        "pt": "Guiné",
+        "en": "Guinea",
+        "es": "Guinea"
+      }
+    },
+    {
+      "code": "gq",
+      "easy": false,
+      "name": {
+        "pt": "Guiné Equatorial",
+        "en": "Equatorial Guinea",
+        "es": "Guinea Ecuatorial"
+      }
+    },
+    {
+      "code": "gw",
+      "easy": false,
+      "name": {
+        "pt": "Guiné-Bissau",
+        "en": "Guinea-Bissau",
+        "es": "Guinea-Bisáu"
+      }
+    },
+    {
+      "code": "gm",
+      "easy": false,
+      "name": {
+        "pt": "Gâmbia",
+        "en": "Gambia",
+        "es": "Gambia"
+      }
+    },
+    {
+      "code": "ls",
+      "easy": false,
+      "name": {
+        "pt": "Lesoto",
+        "en": "Lesotho",
+        "es": "Lesoto"
+      }
+    },
+    {
+      "code": "lr",
+      "easy": false,
+      "name": {
+        "pt": "Libéria",
+        "en": "Liberia",
+        "es": "Liberia"
+      }
+    },
+    {
+      "code": "ly",
+      "easy": false,
+      "name": {
+        "pt": "Líbia",
+        "en": "Libya",
+        "es": "Libia"
+      }
+    },
+    {
+      "code": "mg",
+      "easy": true,
+      "name": {
+        "pt": "Madagascar",
+        "en": "Madagascar",
+        "es": "Madagascar"
+      }
+    },
+    {
+      "code": "mw",
+      "easy": false,
+      "name": {
+        "pt": "Malawi",
+        "en": "Malawi",
+        "es": "Malaui"
+      }
+    },
+    {
+      "code": "ml",
+      "easy": false,
+      "name": {
+        "pt": "Mali",
+        "en": "Mali",
+        "es": "Malí"
+      }
+    },
+    {
+      "code": "ma",
+      "easy": true,
+      "name": {
+        "pt": "Marrocos",
+        "en": "Morocco",
+        "es": "Marruecos"
+      }
+    },
+    {
+      "code": "mr",
+      "easy": false,
+      "name": {
+        "pt": "Mauritânia",
+        "en": "Mauritania",
+        "es": "Mauritania"
+      }
+    },
+    {
+      "code": "mu",
+      "easy": false,
+      "name": {
+        "pt": "Maurício",
+        "en": "Mauritius",
+        "es": "Mauricio"
+      }
+    },
+    {
+      "code": "mz",
+      "easy": true,
+      "name": {
+        "pt": "Moçambique",
+        "en": "Mozambique",
+        "es": "Mozambique"
+      }
+    },
+    {
+      "code": "na",
+      "easy": false,
+      "name": {
+        "pt": "Namíbia",
+        "en": "Namibia",
+        "es": "Namibia"
+      }
+    },
+    {
+      "code": "ng",
+      "easy": true,
+      "name": {
+        "pt": "Nigéria",
+        "en": "Nigeria",
+        "es": "Nigeria"
+      }
+    },
+    {
+      "code": "ne",
+      "easy": false,
+      "name": {
+        "pt": "Níger",
+        "en": "Niger",
+        "es": "Níger"
+      }
+    },
+    {
+      "code": "ke",
+      "easy": true,
+      "name": {
+        "pt": "Quênia",
+        "en": "Kenya",
+        "es": "Kenia"
+      }
+    },
+    {
+      "code": "cd",
+      "easy": false,
+      "name": {
+        "pt": "RD do Congo",
+        "en": "DR Congo",
+        "es": "RD del Congo"
+      }
+    },
+    {
+      "code": "cf",
+      "easy": false,
+      "name": {
+        "pt": "República Centro-Africana",
+        "en": "Central African Republic",
+        "es": "República Centroafricana"
+      }
+    },
+    {
+      "code": "cg",
+      "easy": false,
+      "name": {
+        "pt": "República do Congo",
+        "en": "Republic of the Congo",
+        "es": "República del Congo"
+      }
+    },
+    {
+      "code": "rw",
+      "easy": false,
+      "name": {
+        "pt": "Ruanda",
+        "en": "Rwanda",
+        "es": "Ruanda"
+      }
+    },
+    {
+      "code": "sc",
+      "easy": false,
+      "name": {
+        "pt": "Seicheles",
+        "en": "Seychelles",
+        "es": "Seychelles"
+      }
+    },
+    {
+      "code": "sn",
+      "easy": true,
+      "name": {
+        "pt": "Senegal",
+        "en": "Senegal",
+        "es": "Senegal"
+      }
+    },
+    {
+      "code": "sl",
+      "easy": false,
+      "name": {
+        "pt": "Serra Leoa",
+        "en": "Sierra Leone",
+        "es": "Sierra Leona"
+      }
+    },
+    {
+      "code": "so",
+      "easy": false,
+      "name": {
+        "pt": "Somália",
+        "en": "Somalia",
+        "es": "Somalia"
+      }
+    },
+    {
+      "code": "sd",
+      "easy": false,
+      "name": {
+        "pt": "Sudão",
+        "en": "Sudan",
+        "es": "Sudán"
+      }
+    },
+    {
+      "code": "ss",
+      "easy": false,
+      "name": {
+        "pt": "Sudão do Sul",
+        "en": "South Sudan",
+        "es": "Sudán del Sur"
+      }
+    },
+    {
+      "code": "st",
+      "easy": false,
+      "name": {
+        "pt": "São Tomé e Príncipe",
+        "en": "São Tomé and Príncipe",
+        "es": "Santo Tomé y Príncipe"
+      }
+    },
+    {
+      "code": "tz",
+      "easy": false,
+      "name": {
+        "pt": "Tanzânia",
+        "en": "Tanzania",
+        "es": "Tanzania"
+      }
+    },
+    {
+      "code": "tg",
+      "easy": false,
+      "name": {
+        "pt": "Togo",
+        "en": "Togo",
+        "es": "Togo"
+      }
+    },
+    {
+      "code": "tn",
+      "easy": true,
+      "name": {
+        "pt": "Tunísia",
+        "en": "Tunisia",
+        "es": "Túnez"
+      }
+    },
+    {
+      "code": "ug",
+      "easy": false,
+      "name": {
+        "pt": "Uganda",
+        "en": "Uganda",
+        "es": "Uganda"
+      }
+    },
+    {
+      "code": "zw",
+      "easy": false,
+      "name": {
+        "pt": "Zimbábue",
+        "en": "Zimbabwe",
+        "es": "Zimbabue"
+      }
+    },
+    {
+      "code": "zm",
+      "easy": false,
+      "name": {
+        "pt": "Zâmbia",
+        "en": "Zambia",
+        "es": "Zambia"
+      }
+    },
+    {
+      "code": "za",
+      "easy": true,
+      "name": {
+        "pt": "África do Sul",
+        "en": "South Africa",
+        "es": "Sudáfrica"
+      }
+    }
+  ],
+  "america": [
+    {
+      "code": "ag",
+      "easy": false,
+      "name": {
+        "pt": "Antígua e Barbuda",
+        "en": "Antigua and Barbuda",
+        "es": "Antigua y Barbuda"
+      }
+    },
+    {
+      "code": "ar",
+      "easy": true,
+      "name": {
+        "pt": "Argentina",
+        "en": "Argentina",
+        "es": "Argentina"
+      }
+    },
+    {
+      "code": "bs",
+      "easy": false,
+      "name": {
+        "pt": "Bahamas",
+        "en": "Bahamas",
+        "es": "Bahamas"
+      }
+    },
+    {
+      "code": "bb",
+      "easy": false,
+      "name": {
+        "pt": "Barbados",
+        "en": "Barbados",
+        "es": "Barbados"
+      }
+    },
+    {
+      "code": "bz",
+      "easy": false,
+      "name": {
+        "pt": "Belize",
+        "en": "Belize",
+        "es": "Belice"
+      }
+    },
+    {
+      "code": "bo",
+      "easy": true,
+      "name": {
+        "pt": "Bolívia",
+        "en": "Bolivia",
+        "es": "Bolivia"
+      }
+    },
+    {
+      "code": "br",
+      "easy": true,
+      "name": {
+        "pt": "Brasil",
+        "en": "Brazil",
+        "es": "Brasil"
+      }
+    },
+    {
+      "code": "ca",
+      "easy": true,
+      "name": {
+        "pt": "Canadá",
+        "en": "Canada",
+        "es": "Canadá"
+      }
+    },
+    {
+      "code": "cl",
+      "easy": true,
+      "name": {
+        "pt": "Chile",
+        "en": "Chile",
+        "es": "Chile"
+      }
+    },
+    {
+      "code": "co",
+      "easy": true,
+      "name": {
+        "pt": "Colômbia",
+        "en": "Colombia",
+        "es": "Colombia"
+      }
+    },
+    {
+      "code": "cr",
+      "easy": true,
+      "name": {
+        "pt": "Costa Rica",
+        "en": "Costa Rica",
+        "es": "Costa Rica"
+      }
+    },
+    {
+      "code": "cu",
+      "easy": true,
+      "name": {
+        "pt": "Cuba",
+        "en": "Cuba",
+        "es": "Cuba"
+      }
+    },
+    {
+      "code": "dm",
+      "easy": false,
+      "name": {
+        "pt": "Dominica",
+        "en": "Dominica",
+        "es": "Dominica"
+      }
+    },
+    {
+      "code": "sv",
+      "easy": false,
+      "name": {
+        "pt": "El Salvador",
+        "en": "El Salvador",
+        "es": "El Salvador"
+      }
+    },
+    {
+      "code": "ec",
+      "easy": true,
+      "name": {
+        "pt": "Equador",
+        "en": "Ecuador",
+        "es": "Ecuador"
+      }
+    },
+    {
+      "code": "us",
+      "easy": true,
+      "name": {
+        "pt": "Estados Unidos",
+        "en": "United States",
+        "es": "Estados Unidos"
+      }
+    },
+    {
+      "code": "gd",
+      "easy": false,
+      "name": {
+        "pt": "Granada",
+        "en": "Grenada",
+        "es": "Granada"
+      }
+    },
+    {
+      "code": "gt",
+      "easy": false,
+      "name": {
+        "pt": "Guatemala",
+        "en": "Guatemala",
+        "es": "Guatemala"
+      }
+    },
+    {
+      "code": "gy",
+      "easy": false,
+      "name": {
+        "pt": "Guiana",
+        "en": "Guyana",
+        "es": "Guyana"
+      }
+    },
+    {
+      "code": "ht",
+      "easy": false,
+      "name": {
+        "pt": "Haiti",
+        "en": "Haiti",
+        "es": "Haití"
+      }
+    },
+    {
+      "code": "hn",
+      "easy": false,
+      "name": {
+        "pt": "Honduras",
+        "en": "Honduras",
+        "es": "Honduras"
+      }
+    },
+    {
+      "code": "jm",
+      "easy": true,
+      "name": {
+        "pt": "Jamaica",
+        "en": "Jamaica",
+        "es": "Jamaica"
+      }
+    },
+    {
+      "code": "mx",
+      "easy": true,
+      "name": {
+        "pt": "México",
+        "en": "Mexico",
+        "es": "México"
+      }
+    },
+    {
+      "code": "ni",
+      "easy": false,
+      "name": {
+        "pt": "Nicarágua",
+        "en": "Nicaragua",
+        "es": "Nicaragua"
+      }
+    },
+    {
+      "code": "pa",
+      "easy": true,
+      "name": {
+        "pt": "Panamá",
+        "en": "Panama",
+        "es": "Panamá"
+      }
+    },
+    {
+      "code": "py",
+      "easy": true,
+      "name": {
+        "pt": "Paraguai",
+        "en": "Paraguay",
+        "es": "Paraguay"
+      }
+    },
+    {
+      "code": "pe",
+      "easy": true,
+      "name": {
+        "pt": "Peru",
+        "en": "Peru",
+        "es": "Perú"
+      }
+    },
+    {
+      "code": "do",
+      "easy": false,
+      "name": {
+        "pt": "República Dominicana",
+        "en": "Dominican Republic",
+        "es": "República Dominicana"
+      }
+    },
+    {
+      "code": "lc",
+      "easy": false,
+      "name": {
+        "pt": "Santa Lúcia",
+        "en": "Saint Lucia",
+        "es": "Santa Lucía"
+      }
+    },
+    {
+      "code": "sr",
+      "easy": false,
+      "name": {
+        "pt": "Suriname",
+        "en": "Suriname",
+        "es": "Surinam"
+      }
+    },
+    {
+      "code": "kn",
+      "easy": false,
+      "name": {
+        "pt": "São Cristóvão e Névis",
+        "en": "Saint Kitts and Nevis",
+        "es": "San Cristóbal y Nieves"
+      }
+    },
+    {
+      "code": "vc",
+      "easy": false,
+      "name": {
+        "pt": "São Vicente e Granadinas",
+        "en": "Saint Vincent and the Grenadines",
+        "es": "San Vicente y las Granadinas"
+      }
+    },
+    {
+      "code": "tt",
+      "easy": false,
+      "name": {
+        "pt": "Trinidad e Tobago",
+        "en": "Trinidad and Tobago",
+        "es": "Trinidad y Tobago"
+      }
+    },
+    {
+      "code": "uy",
+      "easy": true,
+      "name": {
+        "pt": "Uruguai",
+        "en": "Uruguay",
+        "es": "Uruguay"
+      }
+    },
+    {
+      "code": "ve",
+      "easy": true,
+      "name": {
+        "pt": "Venezuela",
+        "en": "Venezuela",
+        "es": "Venezuela"
+      }
+    }
+  ],
+  "asia": [
+    {
+      "code": "af",
+      "easy": false,
+      "name": {
+        "pt": "Afeganistão",
+        "en": "Afghanistan",
+        "es": "Afganistán"
+      }
+    },
+    {
+      "code": "am",
+      "easy": false,
+      "name": {
+        "pt": "Armênia",
+        "en": "Armenia",
+        "es": "Armenia"
+      }
+    },
+    {
+      "code": "sa",
+      "easy": true,
+      "name": {
+        "pt": "Arábia Saudita",
+        "en": "Saudi Arabia",
+        "es": "Arabia Saudita"
+      }
+    },
+    {
+      "code": "az",
+      "easy": false,
+      "name": {
+        "pt": "Azerbaijão",
+        "en": "Azerbaijan",
+        "es": "Azerbaiyán"
+      }
+    },
+    {
+      "code": "bh",
+      "easy": false,
+      "name": {
+        "pt": "Bahrein",
+        "en": "Bahrain",
+        "es": "Baréin"
+      }
+    },
+    {
+      "code": "bd",
+      "easy": false,
+      "name": {
+        "pt": "Bangladesh",
+        "en": "Bangladesh",
+        "es": "Bangladés"
+      }
+    },
+    {
+      "code": "bn",
+      "easy": false,
+      "name": {
+        "pt": "Brunei",
+        "en": "Brunei",
+        "es": "Brunéi"
+      }
+    },
+    {
+      "code": "bt",
+      "easy": false,
+      "name": {
+        "pt": "Butão",
+        "en": "Bhutan",
+        "es": "Bután"
+      }
+    },
+    {
+      "code": "kh",
+      "easy": false,
+      "name": {
+        "pt": "Camboja",
+        "en": "Cambodia",
+        "es": "Camboya"
+      }
+    },
+    {
+      "code": "qa",
+      "easy": true,
+      "name": {
+        "pt": "Catar",
+        "en": "Qatar",
+        "es": "Catar"
+      }
+    },
+    {
+      "code": "kz",
+      "easy": false,
+      "name": {
+        "pt": "Cazaquistão",
+        "en": "Kazakhstan",
+        "es": "Kazajistán"
+      }
+    },
+    {
+      "code": "cn",
+      "easy": true,
+      "name": {
+        "pt": "China",
+        "en": "China",
+        "es": "China"
+      }
+    },
+    {
+      "code": "kp",
+      "easy": true,
+      "name": {
+        "pt": "Coreia do Norte",
+        "en": "North Korea",
+        "es": "Corea del Norte"
+      }
+    },
+    {
+      "code": "kr",
+      "easy": true,
+      "name": {
+        "pt": "Coreia do Sul",
+        "en": "South Korea",
+        "es": "Corea del Sur"
+      }
+    },
+    {
+      "code": "ae",
+      "easy": true,
+      "name": {
+        "pt": "Emirados Árabes Unidos",
+        "en": "United Arab Emirates",
+        "es": "Emiratos Árabes Unidos"
+      }
+    },
+    {
+      "code": "ph",
+      "easy": true,
+      "name": {
+        "pt": "Filipinas",
+        "en": "Philippines",
+        "es": "Filipinas"
+      }
+    },
+    {
+      "code": "ge",
+      "easy": false,
+      "name": {
+        "pt": "Geórgia",
+        "en": "Georgia",
+        "es": "Georgia"
+      }
+    },
+    {
+      "code": "id",
+      "easy": true,
+      "name": {
+        "pt": "Indonésia",
+        "en": "Indonesia",
+        "es": "Indonesia"
+      }
+    },
+    {
+      "code": "iq",
+      "easy": true,
+      "name": {
+        "pt": "Iraque",
+        "en": "Iraq",
+        "es": "Irak"
+      }
+    },
+    {
+      "code": "ir",
+      "easy": true,
+      "name": {
+        "pt": "Irã",
+        "en": "Iran",
+        "es": "Irán"
+      }
+    },
+    {
+      "code": "il",
+      "easy": true,
+      "name": {
+        "pt": "Israel",
+        "en": "Israel",
+        "es": "Israel"
+      }
+    },
+    {
+      "code": "ye",
+      "easy": false,
+      "name": {
+        "pt": "Iêmen",
+        "en": "Yemen",
+        "es": "Yemen"
+      }
+    },
+    {
+      "code": "jp",
+      "easy": true,
+      "name": {
+        "pt": "Japão",
+        "en": "Japan",
+        "es": "Japón"
+      }
+    },
+    {
+      "code": "jo",
+      "easy": false,
+      "name": {
+        "pt": "Jordânia",
+        "en": "Jordan",
+        "es": "Jordania"
+      }
+    },
+    {
+      "code": "kw",
+      "easy": false,
+      "name": {
+        "pt": "Kuwait",
+        "en": "Kuwait",
+        "es": "Kuwait"
+      }
+    },
+    {
+      "code": "la",
+      "easy": false,
+      "name": {
+        "pt": "Laos",
+        "en": "Laos",
+        "es": "Laos"
+      }
+    },
+    {
+      "code": "lb",
+      "easy": true,
+      "name": {
+        "pt": "Líbano",
+        "en": "Lebanon",
+        "es": "Líbano"
+      }
+    },
+    {
+      "code": "mv",
+      "easy": false,
+      "name": {
+        "pt": "Maldivas",
+        "en": "Maldives",
+        "es": "Maldivas"
+      }
+    },
+    {
+      "code": "my",
+      "easy": false,
+      "name": {
+        "pt": "Malásia",
+        "en": "Malaysia",
+        "es": "Malasia"
+      }
+    },
+    {
+      "code": "mm",
+      "easy": false,
+      "name": {
+        "pt": "Mianmar",
+        "en": "Myanmar",
+        "es": "Birmania"
+      }
+    },
+    {
+      "code": "mn",
+      "easy": false,
+      "name": {
+        "pt": "Mongólia",
+        "en": "Mongolia",
+        "es": "Mongolia"
+      }
+    },
+    {
+      "code": "np",
+      "easy": false,
+      "name": {
+        "pt": "Nepal",
+        "en": "Nepal",
+        "es": "Nepal"
+      }
+    },
+    {
+      "code": "om",
+      "easy": false,
+      "name": {
+        "pt": "Omã",
+        "en": "Oman",
+        "es": "Omán"
+      }
+    },
+    {
+      "code": "pk",
+      "easy": true,
+      "name": {
+        "pt": "Paquistão",
+        "en": "Pakistan",
+        "es": "Pakistán"
+      }
+    },
+    {
+      "code": "kg",
+      "easy": false,
+      "name": {
+        "pt": "Quirguistão",
+        "en": "Kyrgyzstan",
+        "es": "Kirguistán"
+      }
+    },
+    {
+      "code": "sg",
+      "easy": true,
+      "name": {
+        "pt": "Singapura",
+        "en": "Singapore",
+        "es": "Singapur"
+      }
+    },
+    {
+      "code": "lk",
+      "easy": false,
+      "name": {
+        "pt": "Sri Lanka",
+        "en": "Sri Lanka",
+        "es": "Sri Lanka"
+      }
+    },
+    {
+      "code": "sy",
+      "easy": false,
+      "name": {
+        "pt": "Síria",
+        "en": "Syria",
+        "es": "Siria"
+      }
+    },
+    {
+      "code": "th",
+      "easy": true,
+      "name": {
+        "pt": "Tailândia",
+        "en": "Thailand",
+        "es": "Tailandia"
+      }
+    },
+    {
+      "code": "tj",
+      "easy": false,
+      "name": {
+        "pt": "Tajiquistão",
+        "en": "Tajikistan",
+        "es": "Tayikistán"
+      }
+    },
+    {
+      "code": "tl",
+      "easy": false,
+      "name": {
+        "pt": "Timor-Leste",
+        "en": "East Timor",
+        "es": "Timor Oriental"
+      }
+    },
+    {
+      "code": "tm",
+      "easy": false,
+      "name": {
+        "pt": "Turcomenistão",
+        "en": "Turkmenistan",
+        "es": "Turkmenistán"
+      }
+    },
+    {
+      "code": "tr",
+      "easy": true,
+      "name": {
+        "pt": "Turquia",
+        "en": "Turkey",
+        "es": "Turquía"
+      }
+    },
+    {
+      "code": "uz",
+      "easy": false,
+      "name": {
+        "pt": "Uzbequistão",
+        "en": "Uzbekistan",
+        "es": "Uzbekistán"
+      }
+    },
+    {
+      "code": "vn",
+      "easy": true,
+      "name": {
+        "pt": "Vietnã",
+        "en": "Vietnam",
+        "es": "Vietnam"
+      }
+    },
+    {
+      "code": "in",
+      "easy": true,
+      "name": {
+        "pt": "Índia",
+        "en": "India",
+        "es": "India"
+      }
+    }
+  ],
+  "europe": [
+    {
+      "code": "al",
+      "easy": false,
+      "name": {
+        "pt": "Albânia",
+        "en": "Albania",
+        "es": "Albania"
+      }
+    },
+    {
+      "code": "de",
+      "easy": true,
+      "name": {
+        "pt": "Alemanha",
+        "en": "Germany",
+        "es": "Alemania"
+      }
+    },
+    {
+      "code": "ad",
+      "easy": false,
+      "name": {
+        "pt": "Andorra",
+        "en": "Andorra",
+        "es": "Andorra"
+      }
+    },
+    {
+      "code": "by",
+      "easy": false,
+      "name": {
+        "pt": "Bielorrússia",
+        "en": "Belarus",
+        "es": "Bielorrusia"
+      }
+    },
+    {
+      "code": "bg",
+      "easy": false,
+      "name": {
+        "pt": "Bulgária",
+        "en": "Bulgaria",
+        "es": "Bulgaria"
+      }
+    },
+    {
+      "code": "be",
+      "easy": true,
+      "name": {
+        "pt": "Bélgica",
+        "en": "Belgium",
+        "es": "Bélgica"
+      }
+    },
+    {
+      "code": "ba",
+      "easy": false,
+      "name": {
+        "pt": "Bósnia e Herzegovina",
+        "en": "Bosnia and Herzegovina",
+        "es": "Bosnia y Herzegovina"
+      }
+    },
+    {
+      "code": "cy",
+      "easy": false,
+      "name": {
+        "pt": "Chipre",
+        "en": "Cyprus",
+        "es": "Chipre"
+      }
+    },
+    {
+      "code": "hr",
+      "easy": true,
+      "name": {
+        "pt": "Croácia",
+        "en": "Croatia",
+        "es": "Croacia"
+      }
+    },
+    {
+      "code": "dk",
+      "easy": true,
+      "name": {
+        "pt": "Dinamarca",
+        "en": "Denmark",
+        "es": "Dinamarca"
+      }
+    },
+    {
+      "code": "sk",
+      "easy": false,
+      "name": {
+        "pt": "Eslováquia",
+        "en": "Slovakia",
+        "es": "Eslovaquia"
+      }
+    },
+    {
+      "code": "si",
+      "easy": false,
+      "name": {
+        "pt": "Eslovênia",
+        "en": "Slovenia",
+        "es": "Eslovenia"
+      }
+    },
+    {
+      "code": "es",
+      "easy": true,
+      "name": {
+        "pt": "Espanha",
+        "en": "Spain",
+        "es": "España"
+      }
+    },
+    {
+      "code": "ee",
+      "easy": false,
+      "name": {
+        "pt": "Estônia",
+        "en": "Estonia",
+        "es": "Estonia"
+      }
+    },
+    {
+      "code": "fi",
+      "easy": true,
+      "name": {
+        "pt": "Finlândia",
+        "en": "Finland",
+        "es": "Finlandia"
+      }
+    },
+    {
+      "code": "fr",
+      "easy": true,
+      "name": {
+        "pt": "França",
+        "en": "France",
+        "es": "Francia"
+      }
+    },
+    {
+      "code": "gr",
+      "easy": true,
+      "name": {
+        "pt": "Grécia",
+        "en": "Greece",
+        "es": "Grecia"
+      }
+    },
+    {
+      "code": "hu",
+      "easy": false,
+      "name": {
+        "pt": "Hungria",
+        "en": "Hungary",
+        "es": "Hungría"
+      }
+    },
+    {
+      "code": "ie",
+      "easy": true,
+      "name": {
+        "pt": "Irlanda",
+        "en": "Ireland",
+        "es": "Irlanda"
+      }
+    },
+    {
+      "code": "is",
+      "easy": false,
+      "name": {
+        "pt": "Islândia",
+        "en": "Iceland",
+        "es": "Islandia"
+      }
+    },
+    {
+      "code": "it",
+      "easy": true,
+      "name": {
+        "pt": "Itália",
+        "en": "Italy",
+        "es": "Italia"
+      }
+    },
+    {
+      "code": "lv",
+      "easy": false,
+      "name": {
+        "pt": "Letônia",
+        "en": "Latvia",
+        "es": "Letonia"
+      }
+    },
+    {
+      "code": "li",
+      "easy": false,
+      "name": {
+        "pt": "Liechtenstein",
+        "en": "Liechtenstein",
+        "es": "Liechtenstein"
+      }
+    },
+    {
+      "code": "lt",
+      "easy": false,
+      "name": {
+        "pt": "Lituânia",
+        "en": "Lithuania",
+        "es": "Lituania"
+      }
+    },
+    {
+      "code": "lu",
+      "easy": false,
+      "name": {
+        "pt": "Luxemburgo",
+        "en": "Luxembourg",
+        "es": "Luxemburgo"
+      }
+    },
+    {
+      "code": "mk",
+      "easy": false,
+      "name": {
+        "pt": "Macedônia do Norte",
+        "en": "North Macedonia",
+        "es": "Macedonia del Norte"
+      }
+    },
+    {
+      "code": "mt",
+      "easy": false,
+      "name": {
+        "pt": "Malta",
+        "en": "Malta",
+        "es": "Malta"
+      }
+    },
+    {
+      "code": "md",
+      "easy": false,
+      "name": {
+        "pt": "Moldávia",
+        "en": "Moldova",
+        "es": "Moldavia"
+      }
+    },
+    {
+      "code": "me",
+      "easy": false,
+      "name": {
+        "pt": "Montenegro",
+        "en": "Montenegro",
+        "es": "Montenegro"
+      }
+    },
+    {
+      "code": "mc",
+      "easy": false,
+      "name": {
+        "pt": "Mônaco",
+        "en": "Monaco",
+        "es": "Mónaco"
+      }
+    },
+    {
+      "code": "no",
+      "easy": true,
+      "name": {
+        "pt": "Noruega",
+        "en": "Norway",
+        "es": "Noruega"
+      }
+    },
+    {
+      "code": "nl",
+      "easy": true,
+      "name": {
+        "pt": "Países Baixos",
+        "en": "Netherlands",
+        "es": "Países Bajos"
+      }
+    },
+    {
+      "code": "pl",
+      "easy": true,
+      "name": {
+        "pt": "Polônia",
+        "en": "Poland",
+        "es": "Polonia"
+      }
+    },
+    {
+      "code": "pt",
+      "easy": true,
+      "name": {
+        "pt": "Portugal",
+        "en": "Portugal",
+        "es": "Portugal"
+      }
+    },
+    {
+      "code": "gb",
+      "easy": true,
+      "name": {
+        "pt": "Reino Unido",
+        "en": "United Kingdom",
+        "es": "Reino Unido"
+      }
+    },
+    {
+      "code": "ro",
+      "easy": false,
+      "name": {
+        "pt": "Romênia",
+        "en": "Romania",
+        "es": "Rumania"
+      }
+    },
+    {
+      "code": "ru",
+      "easy": true,
+      "name": {
+        "pt": "Rússia",
+        "en": "Russia",
+        "es": "Rusia"
+      }
+    },
+    {
+      "code": "sm",
+      "easy": false,
+      "name": {
+        "pt": "San Marino",
+        "en": "San Marino",
+        "es": "San Marino"
+      }
+    },
+    {
+      "code": "se",
+      "easy": true,
+      "name": {
+        "pt": "Suécia",
+        "en": "Sweden",
+        "es": "Suecia"
+      }
+    },
+    {
+      "code": "ch",
+      "easy": true,
+      "name": {
+        "pt": "Suíça",
+        "en": "Switzerland",
+        "es": "Suiza"
+      }
+    },
+    {
+      "code": "rs",
+      "easy": false,
+      "name": {
+        "pt": "Sérvia",
+        "en": "Serbia",
+        "es": "Serbia"
+      }
+    },
+    {
+      "code": "cz",
+      "easy": false,
+      "name": {
+        "pt": "Tchéquia",
+        "en": "Czechia",
+        "es": "Chequia"
+      }
+    },
+    {
+      "code": "ua",
+      "easy": true,
+      "name": {
+        "pt": "Ucrânia",
+        "en": "Ukraine",
+        "es": "Ucrania"
+      }
+    },
+    {
+      "code": "va",
+      "easy": false,
+      "name": {
+        "pt": "Vaticano",
+        "en": "Vatican City",
+        "es": "Ciudad del Vaticano"
+      }
+    },
+    {
+      "code": "at",
+      "easy": true,
+      "name": {
+        "pt": "Áustria",
+        "en": "Austria",
+        "es": "Austria"
+      }
+    }
+  ],
+  "oceania": [
+    {
+      "code": "au",
+      "easy": true,
+      "name": {
+        "pt": "Austrália",
+        "en": "Australia",
+        "es": "Australia"
+      }
+    },
+    {
+      "code": "fj",
+      "easy": true,
+      "name": {
+        "pt": "Fiji",
+        "en": "Fiji",
+        "es": "Fiyi"
+      }
+    },
+    {
+      "code": "mh",
+      "easy": false,
+      "name": {
+        "pt": "Ilhas Marshall",
+        "en": "Marshall Islands",
+        "es": "Islas Marshall"
+      }
+    },
+    {
+      "code": "sb",
+      "easy": false,
+      "name": {
+        "pt": "Ilhas Salomão",
+        "en": "Solomon Islands",
+        "es": "Islas Salomón"
+      }
+    },
+    {
+      "code": "ki",
+      "easy": false,
+      "name": {
+        "pt": "Kiribati",
+        "en": "Kiribati",
+        "es": "Kiribati"
+      }
+    },
+    {
+      "code": "fm",
+      "easy": false,
+      "name": {
+        "pt": "Micronésia",
+        "en": "Micronesia",
+        "es": "Micronesia"
+      }
+    },
+    {
+      "code": "nr",
+      "easy": false,
+      "name": {
+        "pt": "Nauru",
+        "en": "Nauru",
+        "es": "Nauru"
+      }
+    },
+    {
+      "code": "nz",
+      "easy": true,
+      "name": {
+        "pt": "Nova Zelândia",
+        "en": "New Zealand",
+        "es": "Nueva Zelanda"
+      }
+    },
+    {
+      "code": "pw",
+      "easy": false,
+      "name": {
+        "pt": "Palau",
+        "en": "Palau",
+        "es": "Palaos"
+      }
+    },
+    {
+      "code": "pg",
+      "easy": true,
+      "name": {
+        "pt": "Papua-Nova Guiné",
+        "en": "Papua New Guinea",
+        "es": "Papúa Nueva Guinea"
+      }
+    },
+    {
+      "code": "ws",
+      "easy": true,
+      "name": {
+        "pt": "Samoa",
+        "en": "Samoa",
+        "es": "Samoa"
+      }
+    },
+    {
+      "code": "to",
+      "easy": true,
+      "name": {
+        "pt": "Tonga",
+        "en": "Tonga",
+        "es": "Tonga"
+      }
+    },
+    {
+      "code": "tv",
+      "easy": false,
+      "name": {
+        "pt": "Tuvalu",
+        "en": "Tuvalu",
+        "es": "Tuvalu"
+      }
+    },
+    {
+      "code": "vu",
+      "easy": false,
+      "name": {
+        "pt": "Vanuatu",
+        "en": "Vanuatu",
+        "es": "Vanuatu"
+      }
+    }
+  ]
+}
