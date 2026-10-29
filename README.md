@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android">
 </p>
 
-**Autor:** Vinícius Vieira Romão
-
 ---
 
 ## Sobre o jogo
@@ -24,6 +22,10 @@
 O jogador vê a bandeira de um país e escolhe, entre 4 opções, qual é o país correto antes que o tempo acabe. No fim da partida, aparece o resultado e o jogador pode salvar a pontuação no ranking com o seu nome.
 
 O app funciona **totalmente offline**: as 194 bandeiras, os sons e a música ficam dentro do próprio aplicativo.
+
+## Vídeo de demonstração
+
+_Link do vídeo aqui._
 
 ## Funcionalidades
 
@@ -142,6 +144,4 @@ test/                          Testes da lógica do jogo
 4. Um `Timer.periodic` diminui o tempo a cada segundo. Quando chega a zero, abre a tela de resultado.
 5. Ao salvar, o resultado vira JSON e vai para o `shared_preferences`.
 
-## Vídeo de demonstração
-
-_Link do vídeo aqui._
+**Autor:** Vinícius Vieira Romão
