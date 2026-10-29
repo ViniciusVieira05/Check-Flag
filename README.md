@@ -6,7 +6,7 @@
 
 <p align="center">
   Jogo de quiz de bandeiras feito em Flutter.<br>
-  Atividade 03 da disciplina de <b>Programação para Dispositivos Móveis</b>.
+  <b>Programação para Dispositivos Móveis</b>.
 </p>
 
 <p align="center">
@@ -29,8 +29,6 @@ _Link do vídeo aqui._
 
 ## Funcionalidades
 
-**Requisitos da atividade**
-
 - [x] Jogar por continente: África, América, Ásia, Europa e Oceania
 - [x] Jogo aleatório com países do mundo inteiro
 - [x] Tempo de partida configurável: 30 s, 60 s, 3 min ou 5 min
@@ -41,15 +39,10 @@ _Link do vídeo aqui._
 - [x] Tela de resultado com perguntas respondidas, acertos e percentual, e botão para voltar ao menu
 - [x] Navegação com `Navigator` e estado com `setState`
 - [x] Pontuações salvas com `shared_preferences`
-
-**Extras opcionais (todos feitos)**
-
 - [x] **Dificuldade:** Fácil (78 países conhecidos) ou Difícil (todos os 194)
 - [x] **Ranking:** top 10 com o nome do jogador, filtro por tempo e recorde
 - [x] **Idiomas:** português, inglês e espanhol, inclusive nos nomes dos países
 - [x] **Animações:** bandeira desliza, pula no acerto e treme no erro; botões e placar animados
-
-**Além do pedido**
 
 - Galeria com as 194 bandeiras, busca (sem precisar de acento) e filtro por continente
 - Música de fundo e efeitos sonoros
@@ -135,13 +128,5 @@ assets/
 └── imagens/logo.png           Logo do jogo
 test/                          Testes da lógica do jogo
 ```
-
-### Como funciona, em resumo
-
-1. O `paises.json` guarda cada país com o código (`"br"`), os nomes em 3 idiomas e se é "fácil".
-2. O código do país vira o caminho da imagem: `"br"` → `assets/bandeiras/br.png`.
-3. O `QuizEngine` monta a lista de países conforme o modo e a dificuldade, embaralha e, a cada pergunta, sorteia 3 respostas erradas.
-4. Um `Timer.periodic` diminui o tempo a cada segundo. Quando chega a zero, abre a tela de resultado.
-5. Ao salvar, o resultado vira JSON e vai para o `shared_preferences`.
 
 **Autor:** Vinícius Vieira Romão
