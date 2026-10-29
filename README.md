@@ -25,7 +25,7 @@ O app funciona **totalmente offline**: as 194 bandeiras, os sons e a música fic
 
 ## Vídeo de demonstração
 
-_Link do vídeo aqui._
+_Em breve._
 
 ## Funcionalidades
 
